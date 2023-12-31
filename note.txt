@@ -1,0 +1,3 @@
+1. "Update products" in navigator panel dosn't work. But it works from "Products" -> Update.
+2. "Profile" is empty. Trere is no fole profile.js in front-end/scr/components directory.
+3. From "Sign Up" (Register) page clickin button we can directly reach "Products" page without fill up the register form. Verification of valid entered data is not working.   
